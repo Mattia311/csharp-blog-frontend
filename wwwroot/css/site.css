@@ -11,10 +11,12 @@ html {
 html {
     position: relative;
     min-height: 100%;
+    color: aquamarine;
 }
 
 body {
     margin-bottom: 60px;
+    color: red;
 }
 
 .post-list-table td.title {
